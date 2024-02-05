@@ -10,4 +10,13 @@ return [
     "category.update-error" => "Kategori güncelleme başarısız.",
     "category.destroy-success" => "Kategori silme başarılı.",
     "category.destroy-error" => "Kategori silme başarısız.",
+    "brand.index" => "Marka bilgileri getirildi.",
+    "brand.store-success" => "Marka oluşturma başarılı.",
+    "brand.store-error" => "Marka oluşturma başarısız.",
+    "brand.show-success" => "Marka bilgisi başarıla getirildi.",
+    "brand.show-error" => "Marka bilgileri bulunamadı.",
+    "brand.update-success" => "Marka güncelleme başarılı.",
+    "brand.update-error" => "Marka güncelleme başarısız.",
+    "brand.destroy-success" => "Marka silme başarılı.",
+    "brand.destroy-error" => "Marka silme başarısız.",
 ];
